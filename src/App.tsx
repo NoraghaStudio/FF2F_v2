@@ -191,7 +191,7 @@ function App() {
             <div className="lg:w-1/2 relative max-w-md lg:max-w-none mx-auto">
               <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent z-10"></div>
               <img 
-                src="FF2F_v2/public/John.png"
+                src="/FF2F_v2/John.png"
                 alt="FF2F Owner" 
                 className="w-1/2 md:w-1/2 mx-auto rounded-2xl" 
               />
