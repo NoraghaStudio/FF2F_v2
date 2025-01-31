@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Remove the /ff2f/ base to serve from root
+  base: '/FF2F_v2/', // Ensure this is the correct base path
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
